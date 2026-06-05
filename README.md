@@ -1,22 +1,20 @@
-# RAVERO LONDON GitHub Pages Website - Root Image Version
+# RAVERO LONDON Website Package
 
-This version expects all image files to sit in the same folder as `index.html`.
+Upload all files in this folder directly to the root of your GitHub Pages repository.
 
-Upload all files in this folder directly into your GitHub repository root:
-
+Required files:
 - index.html
 - styles.css
 - script.js
 - ravero-logo.png
-- ravero-icon.png
-- hero-forge-chrono-sport.png
-- collection-prime.png
-- collection-aura.png
-- collection-forge.png
-- collection-kin.png
-- collection-true.png
-- collection-meridian.png
-- story-watch-detail.png
-- .nojekyll
+- hero-forge-chrono-sport.webp
+- collection-prime.webp
+- collection-aura.webp
+- collection-forge.webp
+- collection-kin.webp
+- collection-true.webp
+- collection-meridian.webp
+- story-watch-detail.webp
 
-Important: file names are case-sensitive on GitHub Pages. The image names in the repository must match these names exactly.
+If you want to use your own images, replace the image files using the exact same filenames.
+GitHub is case-sensitive, so spelling and file extensions must match exactly.
